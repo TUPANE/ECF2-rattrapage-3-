@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\blog"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\bibliotheque"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\biblioPOO"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\init_poo"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\blogcorrectionPOO"
+		}
+	],
+	"settings": {}
+}

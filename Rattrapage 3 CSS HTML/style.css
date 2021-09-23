@@ -1,0 +1,188 @@
+body {
+    margin: 0px;
+}
+/*-------------- Partie Nav--------------- */
+#nav {
+    background-color: black;
+    color: white;
+
+    
+}
+
+#top {
+    width: auto;
+    height: auto;
+    padding-left: 300px;
+    padding-top: 20px;
+    padding-bottom: 15px; 
+    
+}
+
+.whoget {
+    display: inline;
+    color: rgb(214, 211, 211);
+    float: right;
+    padding-right: 115px;
+    padding-top: 20px;
+    padding-left: 0px;
+    list-style: none; 
+    letter-spacing: 1px;  
+}
+
+#nav2 {
+    background-image: url('./Images/hero-image.jpg'); 
+    background-size: cover;
+    background-position: inherit;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+h1 {
+   margin: 0px;
+   font-size: 50px;
+   font-weight: 500;
+   font-family: Arial, Helvetica, sans-serif; 
+}
+
+h5 {
+    font-weight: 90;
+    font-size:large;
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+#learn {
+    background-color:rgb(187, 39, 39);
+    color: white;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 8px
+    
+   
+}
+
+#code {
+    width: 70px;
+    height: 70px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    
+}
+/*-------------- Partie Div--------------- */
+section {
+    font: larger;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#who {
+    color: rgb(241, 53, 53);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    /* border-bottom: 2px solid red;
+    padding-bottom: 8px; */
+}
+
+
+#massive {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.der {
+    color: rgb(241, 53, 53); 
+}
+
+i {
+   position: absolute;
+   right: 20px;  
+}
+
+
+/*-------------- Partie Article--------------- */
+
+h2 {
+    color: rgb(235, 27, 27);
+    
+    
+}
+
+article {
+    background-color: rgb(224, 221, 217);
+    font-size: larger;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+
+#get {
+    font-size: 20px;
+    display:inline-flex;
+    list-style: none;
+    
+}
+
+.profil {
+        color: rgb(235, 27, 27);
+}
+
+.para {
+    color: black;
+}
+
+.but {
+    color: red;
+    font-style: normal;
+    font-size: 18px;
+    padding: 5px;
+}
+
+b {
+    color: black;
+    font-size: xx-large;
+    
+}
+
+
+
+
+/*-------------- Partie Footer--------------- */
+
+footer {
+    background-color: #f74c3c;
+    padding-top: 150px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+}
+
+/*-----------Responsive----------------------*/
+
+/* @media only screen and (min-width: 600px) {
+
+
+} */
+
+
+
+@media only screen and (max-width: 767px) {
+    article {
+        
+        /* font-size: 20px; */
+        display: table;
+        
+    }
+
+    
+        
+}
+
